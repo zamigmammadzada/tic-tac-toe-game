@@ -1,2 +1,1 @@
-# tic-tac-toe-game
-basic tic tac toe game written in javascript
+click to link on about section and play online
